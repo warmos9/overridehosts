@@ -1,2 +1,3 @@
 overridehosts
-liboverridehosts.so
+*.so
+*.tar
